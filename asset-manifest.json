@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e2fddf58.css",
-    "main.js": "/Portfolio/static/js/main.6dfd595a.js",
+    "main.js": "/Portfolio/static/js/main.7a18834b.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
     "static/media/Prajwalchapripic.jpg": "/Portfolio/static/media/Prajwalchapripic.433c479d9bcc416b85a7.jpg",
     "index.html": "/Portfolio/index.html",
     "main.e2fddf58.css.map": "/Portfolio/static/css/main.e2fddf58.css.map",
-    "main.6dfd595a.js.map": "/Portfolio/static/js/main.6dfd595a.js.map",
+    "main.7a18834b.js.map": "/Portfolio/static/js/main.7a18834b.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2fddf58.css",
-    "static/js/main.6dfd595a.js"
+    "static/js/main.7a18834b.js"
   ]
 }
